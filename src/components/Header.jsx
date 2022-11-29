@@ -18,7 +18,7 @@ export default function Header(){
 
     function getCartData(cart){
         var string = ''
-        for(let i = 0; i <= cart.length; i++)
+        for(let i = 0; i < cart.length; i++)
         {
             if(i !== 0)
             {
