@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "title": "special cotton shirt for men",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "category": "men's fashion",
+      "price": "500",
+      "slug": "special-cotton-shirt-for-men",
+      "image": "",
+      "id": 1
+    },
+    {
+      "title": "high quality men distress skinny blue jeans",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "category": "men's fashion",
+      "price": "900",
+      "slug": "high-quality-men-distress-skinny-blue-jeans",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "_id": "61ab42790f34753bcedfa78f",
+      "title": "cotton o neck mens clothing t shirts",
+      "price": "30",
+      "category": "men's fashion",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "createdAt": "2021-12-04T10:27:05.257Z",
+      "updatedAt": "2021-12-04T10:27:05.257Z",
+      "slug": "cotton-o-neck-mens-clothing-t-shirts"
+    },
+    {
+      "id": 4,
+      "_id": "61ab42d00f34753bcedfa79e",
+      "title": "cotton pullover embroidery sweatshirt women",
+      "price": "100",
+      "category": "women's fashion",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "createdAt": "2021-12-04T10:28:32.450Z",
+      "updatedAt": "2021-12-04T10:28:32.450Z",
+      "slug": "cotton-pullover-embroidery-sweatshirt-women"
+    },
+    {
+      "id": 5,
+      "_id": "61ab42e90f34753bcedfa7a2",
+      "title": "breast button belt sur collar winter coat women",
+      "price": "120",
+      "category": "women's fashion",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "createdAt": "2021-12-04T10:28:57.621Z",
+      "updatedAt": "2021-12-04T10:28:57.621Z",
+      "slug": "breast-button-belt-sur-collar-winter-coat-women"
+    },
+    {
+      "id": 6,
+      "_id": "61ab431c0f34753bcedfa7a6",
+      "title": "running sneaker",
+      "price": "200",
+      "category": "women's fashion",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "createdAt": "2021-12-04T10:29:48.295Z",
+      "updatedAt": "2021-12-04T10:29:48.295Z",
+      "slug": "running-sneaker"
+    },
+    {
+      "id": 7,
+      "_id": "61ab43350f34753bcedfa7aa",
+      "title": "men casual shoes sports running sneakers",
+      "price": "100",
+      "category": "women's fashion",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum fugit qui sit at eaque debitis voluptatum eos. Nemo minima, incidunt autem modi, corrupti eveniet maxime eaque eligendi mollitia recusandae quisquam?",
+      "createdAt": "2021-12-04T10:30:13.299Z",
+      "updatedAt": "2021-12-04T10:30:13.299Z",
+      "slug": "men-casual-shoes-sports-running-sneakers"
+    },
+    {
+      "title": "Product one",
+      "description": "ewertwe",
+      "category": "ewfrtewtgwe",
+      "price": "9",
+      "slug": "product-one",
+      "image": "",
+      "id": 8
+    }
+  ]
+}
